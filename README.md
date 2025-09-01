@@ -1,6 +1,6 @@
 ![logo](https://github.com/gajendramandal/gajendramandal/blob/main/Gajendra%20mandal.png)
 <h1 align="center">Hi 👋, I'm Gajendra Mandal</h1>
-<h3 align="center">3rd Year Computer Science Engineering Student</h3>
+<h3 align="center">Final Year Computer Science Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendramandal&label=Profile%20views&color=0e75b6&style=flat" alt="gajendramandal" /> </p>
